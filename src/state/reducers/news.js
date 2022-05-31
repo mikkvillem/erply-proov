@@ -15,7 +15,7 @@ const initialState = {
   newsSource: [],
   newsItems: [],
   newsItemsTotal: null,
-  pageSize: 2,
+  pageSize: 5,
   newsSourceError: false,
   topNewsError: false,
 };
